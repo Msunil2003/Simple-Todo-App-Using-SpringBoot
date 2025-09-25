@@ -108,10 +108,7 @@ Create, Read, Update, Delete operations on the To-Do API
 Uses MockMvc for simulating HTTP requests
 
 
-Modern To-Do List UI
 
-
-![To-Do UI](screenshot/todo-ui.png)
 
 
 This `README.md` covers:  
