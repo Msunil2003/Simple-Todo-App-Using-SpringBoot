@@ -111,7 +111,7 @@ Uses MockMvc for simulating HTTP requests
 Modern To-Do List UI
 
 
-![Alt text](screenshot/todo-ui.png)
+![To-Do UI](screenshot/todo-ui.png)
 
 
 This `README.md` covers:  
